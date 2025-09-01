@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/zh/sitemap.xml
+Sitemap: https://xiaoxiao-tuger.github.io/zh/sitemap.xml
